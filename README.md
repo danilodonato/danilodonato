@@ -1,4 +1,4 @@
-### Hi, I'am Danilo Donato, studying to be a data engineer
+### Hi, I'am Danilo Donato, studying to be a Data Engineer
 
 <!--
 **danilo8br/danilo8br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
