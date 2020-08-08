@@ -1,8 +1,9 @@
 ### Hi, I'am Danilo Donato, studying to be a Data Engineer
 
-[! [Estatísticas do github de Anurag] (https://github-readme-stats.vercel.app/api ? Nome de usuário = anuraghazra )] (https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+
+
+## **A Little About Myself:**
 
 - 🔭 I’m currently working on NEOBPO;
 - 🌱 I’m currently learning Python, NoSQL and Spark;
