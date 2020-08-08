@@ -12,3 +12,5 @@
 - 📫 How to reach me: danilodonato888@gmail.com;
 
 ## **Language and Tools:**
+
+https://github.com/anuraghazra/github-readme-stats
