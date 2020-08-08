@@ -1,7 +1,6 @@
 ### Hi, I'am Danilo Donato, studying to be a Data Engineer
 
-<!--
-**danilo8br/danilo8br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[! [Estatísticas do github de Anurag] (https://github-readme-stats.vercel.app/api ? Nome de usuário = anuraghazra )] (https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
