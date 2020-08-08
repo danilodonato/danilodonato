@@ -15,7 +15,9 @@
 
 <p>
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&hide_border=true" />
- 
+    ! [Estatísticas do github de Anurag] (https://github-readme-stats.vercel.app/api ? Username = anuraghazra & show_icons = true & theme = radical )
+
+
 
 </p>
 
