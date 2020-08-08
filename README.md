@@ -14,7 +14,7 @@
 ## **Language and Tools:**
 
 <p>
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true & theme = radical />
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=ygortfive&show_icons=true&hide_border=true" />
  
 
 
