@@ -15,8 +15,11 @@
 
 <p>
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=dracula" />
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-
+    
+    
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-ar21.svg"></code>
+    
 
 </p>
 
