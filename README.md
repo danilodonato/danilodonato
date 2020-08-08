@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working on NEOBPO;
 - 🌱 I’m currently learning Spark;
-- 👯 I’m looking to collaborate on; 
 - 🤔 I’m looking for help with find an internship in data engineering;
 - 💬 Ask me about anything, i will be happy to help;
 - 📫 How to reach me: danilodonato888@gmail.com;
 
+## **Language and Tools:**
