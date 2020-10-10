@@ -16,5 +16,5 @@
 </p>
 
 <td>
-              <img width="50%" align="center-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&hide=html&layout=compact&count_private=true&hide_border=true&theme=dracula" />               </td>
+              <img width="50%" align="center-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&hide=html&layout=compact&count_private=true&&theme=dracula" />               </td>
 
