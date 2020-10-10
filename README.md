@@ -16,5 +16,5 @@
 </p>
 
 <td>
-              <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
+              <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
 
