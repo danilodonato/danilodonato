@@ -12,12 +12,18 @@
 - 📫 How to reach me: danilodonato888@gmail.com;
 
 <p>
-<img width="50%" align="center" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=dracula" />     
-
+  <img 
+       width="48%" 
+       min-width="420px" 
+       height="200px" 
+       align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=radical&text_color=eee&title_color=0ff&icon_color=0ff&bg_color=000" 
+   />
+  <img 
+       width="48%" 
+       min-width="420px" 
+       height="160px" 
+       align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&layout=compact" 
+   />
 </p>
-
-<p>
-  
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&hide=html&layout=compact&count_private=true&&theme=dracula" /> 
-  </p>
-
