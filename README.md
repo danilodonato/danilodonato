@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on BlueShift Brasil;
 - 🌱 I’m currently learning Spark;
-- 🤔 I’m looking for help with find an internship in data engineering;
+- 👨‍💻 I am currently working as a Data Engineer;
 - 💬 Ask me about anything, i will be happy to help;
 - 📫 How to reach me: danilodonato888@gmail.com;
 
