@@ -17,7 +17,7 @@
        min-width="420px" 
        height="200px" 
        align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=blue-green&text_color=eee&title_color=0ff&icon_color=0ff&bg_color=000" 
+       src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=radical&text_color=eee&title_color=0ff&icon_color=0ff&bg_color=000" 
    />
   <img 
        width="48%" 
