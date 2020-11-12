@@ -20,6 +20,6 @@
 
 
 <p>
-<img width="50%" align="center" https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&layout=compact />
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&layout=compact" />
  
 </p>
