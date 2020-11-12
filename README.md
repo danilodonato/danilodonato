@@ -19,5 +19,5 @@
               <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&hide=html&layout=compact&count_private=true&&theme=dracula" />               </p>
 
 <p>
-https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&layout=compact
+<img https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&layout=compact />
   </p>
