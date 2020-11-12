@@ -5,8 +5,8 @@
 
 ## **A Little About Myself:**
 
-- 🔭 I’m currently working on BlueShift Brasil;
-- 🌱 I’m currently learning Spark;
+- 🥳 I’m currently working on BlueShift Brasil;
+- 🤟 I’m currently learning Spark;
 - 👨‍💻 I am currently working as a Data Engineer;
 - 💬 Ask me about anything, i will be happy to help;
 - 📫 How to reach me: danilodonato888@gmail.com;
