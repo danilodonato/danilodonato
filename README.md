@@ -1,4 +1,4 @@
-### Hi, I'am Danilo Donato, studying to be a Data Engineer
+### Hi, I'am Danilo Donato
 
 
 
