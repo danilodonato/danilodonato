@@ -24,6 +24,6 @@
        min-width="420px" 
        height="160px" 
        align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&layout=compact" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&layout=compact&theme=blue-green" 
    />
 </p>
