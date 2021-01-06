@@ -1,15 +1,7 @@
-### Hi, I'am Danilo Donato🤖 
+### Welcome to my profile🤖 
 
 
 
-
-## **A Little About Myself:**
-
-- 🥳 I’m currently working on BlueShift Brasil;
-- 🤟 I’m currently learning Spark;
-- 👨‍💻 I am currently working as a Data Engineer;
-- 💬 Ask me about anything, i will be happy to help;
-- 📫 How to reach me: danilodonato888@gmail.com;
 
 <p>
   <img 
