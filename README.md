@@ -4,6 +4,8 @@ My name is Danilo Donato, I am 19 years old and I am studying analysis and syste
 
 I am currently working as a data engineer at @BlueShift Brasil.
 
+----
+## :computer: Skills
 
 <p>
   <img 
