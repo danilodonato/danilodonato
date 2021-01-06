@@ -6,6 +6,11 @@ I am currently working as a data engineer at @BlueShift Brasil.
 
 ----
 ## :computer: Skills
+* Programming Language: Python, Java and R.
+* SQL: MySQL and PostgreSQL.
+* NoSQL: MongoDB.
+* Hadoop Ecosystem: Apache NiFi, Apache Spark and Apache Hive
+* Cloud: Microsoft Azure
 
 <p>
   <img 
