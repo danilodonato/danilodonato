@@ -24,4 +24,4 @@ I am currently working as a data engineer at @BlueShift Brasil.
 </p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilodonato/)](https://www.linkedin.com/in/danilodonato/)
+[![Linkedin Badge](https://img.shields.io/badge/-Danilo%Donato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilodonato/)](https://www.linkedin.com/in/danilodonato/)
