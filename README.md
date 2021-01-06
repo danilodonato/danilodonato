@@ -1,6 +1,8 @@
-### Welcome to my profile🤖 
+### Welcome to my profile 🤖 
 
+My name is Danilo Donato, I am 19 years old and I am studying analysis and systems development by Uninove. 
 
+I am currently working as a data engineer at @BlueShift Brasil.
 
 
 <p>
