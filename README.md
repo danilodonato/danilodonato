@@ -22,3 +22,6 @@ I am currently working as a data engineer at @BlueShift Brasil.
        src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=radical&text_color=999&title_color=fff&icon_color=7f9&bg_color=222&cache_seconds=2500&hide_border=true"/>
       
 </p>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Danilo%20Donato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilodonato/)](https://www.linkedin.com/in/danilodonato/)
