@@ -1,5 +1,7 @@
 ### Welcome to my profile :coffee: 
 
+"_You cannot predict the future, but you can program it_"
+
 My name is Danilo Donato, I am 19 years old and I am studying analysis and systems development by Uninove. 
 
 I am currently working as a data engineer at @BlueShift Brasil.
