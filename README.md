@@ -1,4 +1,4 @@
-### Welcome to my profile 🤖 
+### Welcome to my profile :coffee: 
 
 My name is Danilo Donato, I am 19 years old and I am studying analysis and systems development by Uninove. 
 
