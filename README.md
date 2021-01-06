@@ -23,8 +23,9 @@ I am currently working as a data engineer at @BlueShift Brasil.
       
 </p>
 
+## :mag_right: Where to find me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Danilo%20Donato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilodonato/)](https://www.linkedin.com/in/danilodonato/)
 [![Gmail Badge](https://img.shields.io/badge/-danilodonato888@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:danilodonato888@gmail.com)
 
-## 🔎 Where to find me
+
