@@ -12,7 +12,7 @@ I am currently working as a data engineer at @BlueShift Brasil.
 * SQL: MySQL and PostgreSQL.
 * NoSQL: MongoDB.
 * Hadoop Ecosystem: Apache NiFi, Apache Spark and Apache Hive
-* Cloud: Microsoft Azure
+* Cloud: Microsoft Azure and GCP
 * Operational System: Linux and Windows
 
 <p>
