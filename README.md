@@ -30,9 +30,6 @@ I am currently working as a data engineer at @BlueShift Brasil.
 	<img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=radical-dark&hide_border=true" title="Github Contributions" />
 </p>
 
-<p align="left">
-	<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&layout=radical=chartreuse-dark&hide_border=true" title="Top Langs" />
-</p>
 
 
 
