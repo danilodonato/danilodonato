@@ -26,15 +26,15 @@ I am currently working as a data engineer at @BlueShift Brasil.
 </p>
 
 <p align="left">
-	<img alt="Danilo Donato GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DaniloDonato&theme=radical-dark&show_icons=true&hide_border=true" title="Danilo Donato GitHub Stats" />
+	<img alt="Danilo Donato GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danilo8br&theme=radical-dark&show_icons=true&hide_border=true" title="Danilo Donato GitHub Stats" />
 </p>
 
 <p align="left">
-	<img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniloDonato&theme=radical-dark&hide_border=true" title="Github Contributions" />
+	<img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=radical-dark&hide_border=true" title="Github Contributions" />
 </p>
 
 <p align="left">
-	<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloDonato&layout=radical=chartreuse-dark&hide_border=true" title="Top Langs" />
+	<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&layout=radical=chartreuse-dark&hide_border=true" title="Top Langs" />
 </p>
 
 
