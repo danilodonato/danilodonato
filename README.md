@@ -20,7 +20,7 @@ I am currently working as a data engineer at @BlueShift Brasil.
        width="48%" 
        min-width="420px" 
        height="200px" 
-       align="center" 
+       align="right" 
        src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=radical&&show_icons=true&hide_border=true "/>
       
 </p>
