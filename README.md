@@ -27,7 +27,7 @@ I am currently working as a data engineer at @BlueShift Brasil.
 
 
 <p align="left">
-	<img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=radical-dark&hide_border=true" title="Github Contributions" />
+	<img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&show_icons=true&theme=radical&text_color=999&title_color=fff&icon_color=7f9&bg_color=222&cache_seconds=2500&hide_border=true" title="Github Contributions" />
 </p>
 
 
