@@ -21,7 +21,7 @@ I am currently working as a data engineer at @BlueShift Brasil.
        min-width="420px" 
        height="200px" 
        align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=radical&&show_icons=true"/>
+       src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=radical&&show_icons=true&hide_border=tru "/>
       
 </p>
 
@@ -32,7 +32,7 @@ I am currently working as a data engineer at @BlueShift Brasil.
         min-width="420px" 
         height="200px" 
         align="center" 
-        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&show_icons=true&theme=radical&text_color=999&title_color=fff&icon_color=7f9&bg_color=222&cache_seconds=2500&hide_border=true" title="Github Contributions" />
+        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&show_icons=true&theme=radical&text_color=999&title_color=fff&icon_color=7f9&bg_color=222&cache_seconds=2500&hide_border=tru e" title="Github Contributions" />
 </p>
 
 
