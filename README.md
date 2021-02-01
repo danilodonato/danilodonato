@@ -35,7 +35,11 @@
 
 Keep calm and code on :man_technologist:
   
-My name is Danilo Donato, I am 19 years old and I am studying analysis and systems development by Uninove. 
+My name is Danilo Donato, I am 19 years old and I am studying analysis and systems development by Uninove.
+
+I love music, games and programming. My favorite band is "Red Hot Chili Peppers", and my favorite game is "Skirym".
+
+
 
 I am currently working as a data engineer at @BlueShift Brasil.
 
