@@ -1,3 +1,14 @@
+
+<p align="center">
+	<img 
+		alt="cover" 
+		loading="lazy"
+		src="./assets/Cover for GitHub.gif" 
+		style="border-radius: 15px; box-shadow: 5px 5px 5px 5px rgba(0,0,0,.5);" 
+		title="Danilo Donato" 
+	
+</p>
+
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, Welcome to my profile :coffee: 
 
 Keep calm and code on :man_technologist:
