@@ -1,7 +1,6 @@
 
 <p align="center">
-	<img 
-		alt="cover" 
+	<img  
 		loading="lazy"
 		src="./assets/Cover for GitHub.gif" 
 		style="border-radius: 15px; box-shadow: 5px 5px 5px 5px rgba(0,0,0,.5);" 
