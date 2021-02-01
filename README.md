@@ -9,22 +9,6 @@
 	
 </p>
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, Welcome to my profile :coffee: 
-
-Keep calm and code on :man_technologist:
-  
-My name is Danilo Donato, I am 19 years old and I am studying analysis and systems development by Uninove. 
-
-I am currently working as a data engineer at @BlueShift Brasil.
-
-----
-## :computer: Skills
-* Programming Language: Python, Java and R.
-* SQL: MySQL and PostgreSQL.
-* NoSQL: MongoDB.
-* Hadoop Ecosystem: Apache NiFi, Apache Spark and Apache Hive
-* Cloud: Microsoft Azure and GCP
-* Operational System: Linux and Windows
 
 <p>
   <img 
@@ -47,6 +31,22 @@ I am currently working as a data engineer at @BlueShift Brasil.
 </p>
 
 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, Welcome to my profile :coffee: 
+
+Keep calm and code on :man_technologist:
+  
+My name is Danilo Donato, I am 19 years old and I am studying analysis and systems development by Uninove. 
+
+I am currently working as a data engineer at @BlueShift Brasil.
+
+----
+## :computer: Skills
+* Programming Language: Python, Java and R.
+* SQL: MySQL and PostgreSQL.
+* NoSQL: MongoDB.
+* Hadoop Ecosystem: Apache NiFi, Apache Spark and Apache Hive
+* Cloud: Microsoft Azure and GCP
+* Operational System: Linux and Windows
 
 
 ## :mag_right: Where to find me
