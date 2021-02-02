@@ -12,6 +12,7 @@
 
 <p>
   <img 
+       border = 2px
        width="48%" 
        min-width="420px" 
        height="200px" 
