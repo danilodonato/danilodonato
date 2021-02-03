@@ -16,22 +16,17 @@
        min-width="420px" 
        height="200px" 
        align="left" 
-       src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=dark&&show_icons=true&hide_border=true "/>     
+       src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=chartreuse-dark&&show_icons=true&hide_border=true "/>     
 </p>
 
 
 <p>
   <img 
-        blueberry: {
-    title_color: "82aaff",
-    icon_color: "89ddff",
-    text_color: "27e8a7",
-    bg_color: "242938",
         width="48%" 
         min-width="420px" 
         height="200px" 
         align="center" 
-        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&show_icons=true&theme=chartreuse-dark&text_color=0D0D0Dtitle_color=77F289&icon_color=#77F289&bg_color=222&cache_seconds=2500&hide_border=true" title="Github Contributions" />
+        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&show_icons=true&theme=chartreuse-dark&text_color=0D0D0Dtitle_color=999&icon_color=#77F289&bg_color=222&cache_seconds=2500&hide_border=true" title="Github Contributions" />
 </p>
 
 
