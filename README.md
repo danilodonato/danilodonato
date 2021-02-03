@@ -26,7 +26,7 @@
         min-width="420px" 
         height="200px" 
         align="center" 
-        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&show_icons=true&theme=dark&text_color=77F289title_color=fff&icon_color=7f9&bg_color=222&cache_seconds=2500&hide_border=true" title="Github Contributions" />
+        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&show_icons=true&theme=dark&text_color=999title_color=77F289&icon_color=7f9&bg_color=222&cache_seconds=2500&hide_border=true" title="Github Contributions" />
 </p>
 
 
