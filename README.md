@@ -16,7 +16,7 @@
        min-width="420px" 
        height="200px" 
        align="left" 
-       src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=chartreuse-dark&&show_icons=true&hide_border=true "/>     
+       src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=algolia&&show_icons=true&hide_border=true "/>     
 </p>
 
 
@@ -26,7 +26,7 @@
         min-width="420px" 
         height="200px" 
         align="center" 
-        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=chartreuse-dark&hide_border=true" title="Github Contributions" />
+        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=algolia&hide_border=true" title="Github Contributions" />
 </p>
 
 
