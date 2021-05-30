@@ -24,7 +24,7 @@
 
 I am currently working as a data engineer at @BlueShift Brasil.
 
-----
+
 ## :computer: Skills & Technologies
 * Programming Language: Python, SQL, Java and R.
 * Relational Database: MySQL and PostgreSQL.
