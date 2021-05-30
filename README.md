@@ -34,9 +34,8 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, Welcome to my profile :coffee: 
 
-Keep calm and code on :man_technologist:
   
-My name is Danilo Donato, I am 19 years old and I am studying analysis and systems development by Uninove.
+:man_technologist: My name is Danilo Donato, I am 19 years old and I am studying last semester in analysis and systems development by Uninove.
 <br>I love music, games and programming. My favorite band is "Red Hot Chili Peppers", and my favorite game is "Skyrim".
 <br>My dream is to live and work as a data engineer in Canada.
 
