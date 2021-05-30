@@ -45,11 +45,12 @@ I am currently working as a data engineer at @BlueShift Brasil.
 
 ----
 ## :computer: Skills & Technologies
-* Programming Language: Python, Java and R.
-* SQL: MySQL and PostgreSQL.
-* NoSQL: MongoDB.
-* Hadoop Ecosystem: Apache NiFi, Apache Spark and Apache Hive
-* Cloud: Microsoft Azure and GCP
+* Programming Language: Python, SQL, Java and R.
+* Relational Database: MySQL and PostgreSQL.
+* NoSQL Database: MongoDB.
+* Hadoop Ecosystem: Apache NiFi, Apache Spark and Apache Hive.
+* Cloud: AWS(AWS Glue, Amazon Redshift, Athena, CodeCommit, EC2, IAM, S3), Microsoft Azure(Data Factorie, Azure SQL, Azure Blob Storage, HDInsight)
+* DevOps: Git and GitHub.
 * Operational System: Linux and Windows
 
 
