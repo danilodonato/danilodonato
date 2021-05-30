@@ -4,7 +4,7 @@
 
 <p align="center">
 	<img  	
-	     	height="200px"
+	     	width="48%"
 	     	alt="cover"
 		loading="lazy"
 		src="./assets/star.gif" 
