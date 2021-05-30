@@ -3,7 +3,8 @@
 
 
 <p align="center">
-	<img  
+	<img  	
+	     	height="200px"
 	     	alt="cover"
 		loading="lazy"
 		src="./assets/star.gif" 
