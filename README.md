@@ -5,15 +5,12 @@
 		loading="lazy"
 		src="./assets/star.gif" 
 		style="border-radius: 15px; box-shadow: 5px 5px 5px 5px rgba(0,0,0,.5);" 
-		title="Danilo Donato" 
-	
+		title="Danilo Donato" 	
 </p>
- 
-	
+ 	
 <p align="center">	
-*"You cannot predict the future, but you can program it."*
+			*"You cannot predict the future, but you can program it."*
 </p>
-
 
 <p>
   <img 
