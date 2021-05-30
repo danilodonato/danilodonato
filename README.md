@@ -1,3 +1,4 @@
+<p align="center"> *You cannot predict the future, but you can program it*</p>
 
 <p align="center">
 	<img  
@@ -8,8 +9,6 @@
 		title="Danilo Donato" 	
 </p>
  	
-	
-<p align="center"> *"You cannot predict the future, but you can program it."*</p>
 
 <p>
   <img 
