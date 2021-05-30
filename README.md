@@ -14,9 +14,9 @@
 
 <p>
   <img 
-       width="48%" 
+       width="24%" 
        min-width="420px" 
-       height="200px" 
+       height="100px" 
        align="left" 
        src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=algolia&&show_icons=true&hide_border=true "/>     
 </p>
