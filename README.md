@@ -44,7 +44,7 @@
 I am currently working as a data engineer at @BlueShift Brasil.
 
 ----
-## :computer: Skills
+## :computer: Skills & Technologies
 * Programming Language: Python, Java and R.
 * SQL: MySQL and PostgreSQL.
 * NoSQL: MongoDB.
