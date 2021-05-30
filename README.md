@@ -14,7 +14,7 @@
 
 <p>
   <img 
-       width="40%" 
+       width="48%" 
        min-width="420px" 
        height="200px" 
        align="left" 
