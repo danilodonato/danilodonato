@@ -6,7 +6,7 @@
 	<img  	
 	     	alt="cover"
 		loading="lazy"
-		src="./assets/pixelart_tumblr_1041uuu_hacker.gif" 
+		src="./assets/star.gif" 
 		style="border-radius: 15px; box-shadow: 5px 5px 5px 5px rgba(0,0,0,.5);" 
 		title="Danilo Donato" 	
 </p>
