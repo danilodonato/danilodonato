@@ -39,3 +39,4 @@ I am currently working as a data engineer at @BlueShift Brasil.
  
 ![Snake animation](https://github.com/danilo8br/danilo8br/blob/output/github-contribution-grid-snake.svg)
 
+
