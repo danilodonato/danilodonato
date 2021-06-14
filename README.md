@@ -19,7 +19,7 @@
 
 <p>
   <img 
-        width="43%" 
+        width="41%" 
         min-width="420px" 
         height="200px" 
         align="center" 
