@@ -9,7 +9,7 @@
 	
 <p>
   <img 
-       width="42%" 
+       width="48%" 
        min-width="420px" 
        height="200px" 
        align="left" 
@@ -19,12 +19,13 @@
 
 <p>
   <img 
-        width="42%" 
+        width="48%" 
         min-width="420px" 
         height="200px" 
         align="center" 
         alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=algolia&hide_border=true" title="Github Contributions" />
 </p>
+
 
  	
 ### *<p align="center"> You cannot predict the future, but you can program it </p>*
