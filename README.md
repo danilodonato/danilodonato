@@ -12,7 +12,7 @@
        width="40%" 
        min-width="420px" 
        height="200px" 
-       align="center-left" 
+       align="left" 
        src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=algolia&&show_icons=true&hide_border=true "/>     
 </p>
 
@@ -22,7 +22,7 @@
         width="40%" 
         min-width="420px" 
         height="200px" 
-        align="center" 
+        align="left" 
         alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=algolia&hide_border=true" title="Github Contributions" />
 </p>
 
