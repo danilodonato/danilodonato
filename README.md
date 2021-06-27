@@ -10,7 +10,7 @@
 	
 <p>
   <img 
-       width="48%" 
+       width="45%" 
        min-width="420px" 
        height="200px" 
        align="left" 
@@ -20,7 +20,7 @@
 
 <p>
   <img 
-        width="48%" 
+        width="45%" 
         min-width="420px" 
         height="200px" 
         align="center" 
