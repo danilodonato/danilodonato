@@ -1,5 +1,6 @@
 <p align="center">
 	<img  	
+	     	width="45%"
 	     	alt="cover"
 		loading="lazy"
 		src="./assets/star.gif" 
