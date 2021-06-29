@@ -35,7 +35,7 @@
 
  <table>
       <tr>
-        <td><img src="https://github-profile-trophy.vercel.app/?username=danilo8br&theme=darkhub&margin-w=53" alt="damilo8br points"/> </td>
+        <td><img src="https://github-profile-trophy.vercel.app/?username=danilo8br&theme=onestar&margin-w=53" alt="damilo8br points"/> </td>
       </tr>
   </table>
 
