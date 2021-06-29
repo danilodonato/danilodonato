@@ -3,30 +3,16 @@
 	     	width="90%"
 	     	alt="cover"
 		loading="lazy"
-		src="./assets/star.gif" 
-		style="border-radius: 15px; box-shadow: 5px 5px 5px 5px rgba(0,0,0,.5);" 
-		title="Danilo Donato" 	
-</p>
-	
-<p>
-  <img 
-       width="48%" 
-       min-width="420px" 
-       height="200px" 
-       align="left" 
-       src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=algolia&&show_icons=true&hide_border=true "/>     
+		src="star.gif" 
+		title="Danilo Donato"> 	
 </p>
 
+<div align="center">
 
-<p>
-  <img 
-        width="48%" 
-        min-width="420px" 
-        height="200px" 
-        align="center" 
-        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=algolia&hide_border=true" title="Github Contributions" />
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=algolia&&show_icons=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=algolia&hide_border=true"/>
 
+</div>
 
  	
 ### *<p align="center"> You cannot predict the future, but you can program it </p>*
