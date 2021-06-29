@@ -3,13 +3,16 @@
 	     	width="90%"
 	     	alt="cover"
 		loading="lazy"
-		src="assets/star.gif" 
+		src="star.gif" 
 		title="Danilo Donato"> 	
 </p>
 
-<div align="center">
+<div align="left">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=algolia&&show_icons=true&hide_border=true"/>
+</div>
+
+<div align="right">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=algolia&hide_border=true"/>
 
 </div>
