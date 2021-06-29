@@ -9,7 +9,7 @@
 	
 <p>
   <img 
-       width="49%" 
+       width="48%" 
        min-width="420px" 
        height="200px" 
        align="left" 
@@ -19,7 +19,7 @@
 
 <p>
   <img 
-        width="49%" 
+        width="48%" 
         min-width="420px" 
         height="200px" 
         align="center" 
