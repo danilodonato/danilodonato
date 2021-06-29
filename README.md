@@ -23,7 +23,7 @@
         min-width="420px" 
         height="200px" 
         align="center" 
-        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=algolia&hide_border=true" title="Github Contributions" />
+        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=nord&hide_border=true" title="Github Contributions" />
 </p>
 
 
