@@ -32,16 +32,6 @@
 
 
 
-
- <table>
-      <tr>
-        <td><img src="https://github-profile-trophy.vercel.app/?username=danilo8br&theme=discord&margin-w=53" alt="damilo8br points"/> </td>
-      </tr>
-  </table>
-
-
-
-
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, Welcome to my profile 
 
   
