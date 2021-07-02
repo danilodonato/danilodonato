@@ -77,12 +77,13 @@ I am currently working as a data engineer at @BlueShift Brasil.
   🌑 Operational System: <strong>Linux and Windows.</strong>
 </p>
 
+<p align="left">
 
+  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/danilodonato/"/>
+  </a>
 
-## :mag_right: Where to find me
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilodonato/)](https://www.linkedin.com/in/danilodonato/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:danilodonato888@gmail.com)
+</p>  
 
  
 ![Snake animation](https://github.com/danilo8br/danilo8br/blob/output/github-contribution-grid-snake.svg)
