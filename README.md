@@ -38,7 +38,7 @@
 ---
 
 
-👨‍💻 Skills & Technologies
+### 👨‍💻 Skills & Technologies
 
 <p align="left">
   🌒 Programming Language: <strong>Python, SQL, Java and R.</strong>
