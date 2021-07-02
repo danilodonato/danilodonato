@@ -79,11 +79,12 @@ I am currently working as a data engineer at @BlueShift Brasil.
 
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/danilodonato/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/danilodonato/"/>
   </a>
 
 </p>  
+
 
  
 ![Snake animation](https://github.com/danilo8br/danilo8br/blob/output/github-contribution-grid-snake.svg)
