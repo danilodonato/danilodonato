@@ -35,6 +35,8 @@
 
 </p>  
 
+---
+
 
 👨‍💻 Skills & Technologies
 
