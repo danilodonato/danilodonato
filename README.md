@@ -26,7 +26,7 @@
         alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=algolia&hide_border=true" title="Github Contributions" />
 </p>
 
-## :computer: Skills & Technologies
+## 👨‍💻 Skills & Technologies
 <p align="left">
   🌒 Programming Language: <strong>Python, SQL, Java and R.</strong>
 </p>
