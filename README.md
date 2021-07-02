@@ -26,6 +26,16 @@
         alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=algolia&hide_border=true" title="Github Contributions" />
 </p>
 
+
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/danilodonato/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-050F2C?style=for-the-badge&logo=Linkedin&logoColor=30D98A&link=https://www.linkedin.com/in/danilodonato/"/>
+  </a>
+
+</p>  
+
+
 ## 👨‍💻 Skills & Technologies
 <p align="left">
   🌒 Programming Language: <strong>Python, SQL, Java and R.</strong>
