@@ -26,24 +26,6 @@
         alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=algolia&hide_border=true" title="Github Contributions" />
 </p>
 
-
- 	
-### *<p align="center"> You cannot predict the future, but you can program it </p>*
-
-
-
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, Welcome to my profile 
-
-  
-My name is Danilo Donato :man_technologist:, I am 19 years old and I am studying last semester in analysis and systems development by Uninove.
-<br>I love music, games and programming. My favorite band is "Red Hot Chili Peppers", and my favorite game is "Skyrim".
-<br>My dream is to live and work as a data engineer in Canada.
-
-
-
-I am currently working as a data engineer at @BlueShift Brasil.
-
-
 ## :computer: Skills & Technologies
 <p align="left">
   🌒 Programming Language: <strong>Python, SQL, Java and R.</strong>
