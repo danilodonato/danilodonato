@@ -59,7 +59,7 @@
 </p>
 
 <p align="left">
-  🌗 Cloud: <strong>Amazon Web Services, Microsoft Azure and Google Cloud Platform.</strong>
+  🌗 Tools: <strong>VS Code, PyCharm, Sublime Text, Jupyter Notebook, RStudio and Postman.</strong>
 </p>
 
 <p align="left">
