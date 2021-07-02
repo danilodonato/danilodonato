@@ -59,11 +59,13 @@
   🌑 Operational System: <strong>Linux and Windows.</strong>
 </p>
 
+
 <p align="left">
 
   <a href="https://www.linkedin.com/in/danilodonato/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=0195DD&link=https://www.linkedin.com/in/danilodonato/"/>
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=30D98A&link=https://www.linkedin.com/in/danilodonato/"/>
   </a>
+
 </p>  
 
  
