@@ -43,7 +43,7 @@
 </p>
 
 <p align="left">
-  🌓 Relational Database: <strong>MySQL, PostgreSQL and SQL Sever.</strong>
+  🌓 Relational Database: <strong>MySQL, PostgreSQL and SQL Server.</strong>
 </p>
 
 <p align="left">
