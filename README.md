@@ -73,11 +73,11 @@
 
 ### Hi, Welcome to my profile 
 
-My name is Danilo Donato :man_technologist:, I am 19 years old and I am studying last semester in analysis and systems development by Uninove.
+My name is Danilo Donato, I am 19 years old and I am studying last semester in analysis and systems development by Uninove.
 <br>I love music, games and programming. My favorite band is "Red Hot Chili Peppers", and my favorite game is "Skyrim".
 <br>My dream is to live and work as a data engineer in Canada.
 
-I am currently working as a data engineer at @BlueShift Brasil.
+I am currently working as a Data Engineer at @BlueShift Brasil.
  
 ![Snake animation](https://github.com/danilo8br/danilo8br/blob/output/github-contribution-grid-snake.svg)
 
