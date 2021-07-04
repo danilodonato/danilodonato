@@ -69,7 +69,7 @@ My name is Danilo Donato, I am 19 years old and I am studying last semester in a
 
 I am currently working as a Data Engineer at @BlueShift Brasil.
  
- ### 🔎 Where To Find Me
+ ### 🔎 Where to find me
 
 <p align="left">
 
