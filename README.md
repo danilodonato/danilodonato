@@ -26,17 +26,6 @@
         alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=algolia&hide_border=true" title="Github Contributions" />
 </p>
 
-### 🔎 Where To Find Me
-
-<p align="left">
-
-  <a href="https://www.linkedin.com/in/danilodonato/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-050F2C?style=for-the-badge&logo=Linkedin&logoColor=30D98A&link=https://www.linkedin.com/in/danilodonato/"/>
-  </a>
-
-</p>  
-
-
 ### 🚀 Skills & Technologies
 
 <p align="left">
@@ -79,6 +68,16 @@ My name is Danilo Donato, I am 19 years old and I am studying last semester in a
 <br>My dream is to live and work as a data engineer in Canada.
 
 I am currently working as a Data Engineer at @BlueShift Brasil.
+ 
+ ### 🔎 Where To Find Me
+
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/danilodonato/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-050F2C?style=for-the-badge&logo=Linkedin&logoColor=30D98A&link=https://www.linkedin.com/in/danilodonato/"/>
+  </a>
+
+</p>  
  
 ![Snake animation](https://github.com/danilo8br/danilo8br/blob/output/github-contribution-grid-snake.svg)
 
