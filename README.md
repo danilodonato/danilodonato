@@ -1,6 +1,6 @@
 <p align="center">
 	<img  	
-	     	width=100px
+	     	width=500px
 	     	alt="cover"
 		loading="lazy"
 		src="assets/carbon.png" 
