@@ -3,7 +3,7 @@
 	     	width=500%
 	     	alt="cover"
 		loading="lazy"
-		src="assets/carbon3.png" 
+		src="assets/carbon5.png" 
 		title="Danilo Donato"> 	
 </p>
 	
