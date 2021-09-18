@@ -3,7 +3,7 @@
 	     	width=500%
 	     	alt="cover"
 		loading="lazy"
-		src="assets/ray.png" 
+		src="assets/ray1.png" 
 		title="Danilo Donato"> 	
 </p>
 	
