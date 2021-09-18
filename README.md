@@ -3,7 +3,7 @@
 	     	width="110%"
 	     	alt="cover"
 		loading="lazy"
-		src="assets/star.gif" 
+		src="assets/code.png" 
 		title="Danilo Donato"> 	
 </p>
 	
