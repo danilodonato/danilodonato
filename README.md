@@ -34,22 +34,16 @@
 </p>  
 
 
-<p align="center">
-	<img  	
-	     	width=15%
-	     	alt="cover"
-		loading="lazy"
-		src="assets/mario-gif.gif" 
-		title="Danilo Donato">
-</p>	
+<img 
+       width="15%" 
+       align="center" 
+       src="assets/mario-gif.gif">
 
-	<img  	
-	     	width=15%
-	     	alt="cover"
-		loading="lazy"
-		src="assets/sonic_run.gif" 
-		title="Danilo Donato">
+
+<img 
+       width="15%" 
+       align="center" 
+       src="assets/sonic_run.gif">
 	
-</p>
 
 
