@@ -55,6 +55,8 @@ loading="lazy"
 align="left" 
 src="assets/sonic_run.gif" 
 title="Danilo Donato"> 	
+
+</p>
 	
 
 <img  	
@@ -66,4 +68,3 @@ src="assets/mega_men.gif"
 title="Danilo Donato"> 		
 		
 	
-</p>
