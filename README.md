@@ -44,7 +44,7 @@
 </p>
 
 
-<p align="center">
+<p align="left">
 	<img  	
 	     	width=10%
 	     	alt="cover"
