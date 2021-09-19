@@ -41,7 +41,7 @@
 		src="assets/mario-gif.gif" 
 		title="Danilo Donato"
 		
-		width=20%
+		width=10%
 	     	alt="cover"
 		loading="lazy"
 		src="assets/sonic_run.gif" 
