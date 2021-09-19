@@ -39,6 +39,7 @@ width=15%
 alt="cover"
 loading="lazy"
 src="assets/mario-gif.gif" 
+src="assets/sonic_run.gif"      
 title="Danilo Donato"> 	
 
 
