@@ -35,7 +35,7 @@
 
 
 <img  	
-width=500%
+width=15%
 alt="cover"
 loading="lazy"
 src="assets/mario-gif.gif" 
