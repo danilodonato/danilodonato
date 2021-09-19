@@ -57,12 +57,12 @@ src="assets/sonic_run.gif"
 title="Danilo Donato"> 	
 
 
-	<img  	
-	     	width=8%
-	     	alt="cover"
-		loading="lazy"
-		src="assets/mega_men.gif" 
-		title="Danilo Donato"> 	
+<img  	
+	width=8%
+	alt="cover"
+	loading="lazy"
+	src="assets/mega_men.gif" 
+	title="Danilo Donato"> 	
 </p>	
 		
 	
