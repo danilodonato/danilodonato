@@ -34,13 +34,20 @@
 </p>  
 
 
-<img  	
-width=15%
-alt="cover"
-loading="lazy"
-src="assets/mario-gif.gif" 
-src="assets/sonic_run.gif"      
-title="Danilo Donato"> 	
-
-
+<p align="center">
+	<img  	
+	     	width=500%
+	     	alt="cover"
+		loading="lazy"
+		src="assets/mario-gif.gif" 
+		title="Danilo Donato"> 	
+	
+	<img  	
+	     	width=500%
+	     	alt="cover"
+		loading="lazy"
+		src="assets/sonic_run.gif" 
+		title="Danilo Donato">
+	
+</p>
 
