@@ -35,7 +35,7 @@
 
  <p align="center">
 	<img	
-		width=20%
+		width=10%
 	     	alt="cover"
 		loading="lazy"
 		src="assets/sonic_run.gif" 
