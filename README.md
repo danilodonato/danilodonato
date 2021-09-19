@@ -64,7 +64,9 @@ title="Danilo Donato">
 		
 	
 	
-<p align="center">
+	
+	
+
 	
 <img  	
 width=8%
