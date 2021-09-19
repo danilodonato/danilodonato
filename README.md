@@ -75,7 +75,7 @@ loading="lazy"
 align="center" 
 src="assets/mega_men.gif" 
 title="Danilo Donato"> 			
-</p>
+
 	
 		
 	
