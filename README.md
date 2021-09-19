@@ -41,7 +41,7 @@
 		loading="lazy"
 		src="assets/mario-gif.gif" 
 		title="Danilo Donato">
-	
+</p>	
 
 	<img  	
 	     	width=15%
