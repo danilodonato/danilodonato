@@ -36,5 +36,14 @@
 
 </p>  
  
+ 
+ <p align="center">
+	<img  	
+	     	width=500%
+	     	alt="cover"
+		loading="lazy"
+		src="assets/carbon5.png" 
+		title="Danilo Donato"> 	
+</p>
 
 
