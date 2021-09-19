@@ -39,8 +39,9 @@
 	     	width=10%
 	     	alt="cover"
 		loading="lazy"
-		src="assets/mario-gif.gif" >
-	<img  	
+		src="assets/mario-gif.gif" 
+	     
+	     
 	     	width=10%
 	     	alt="cover"
 		loading="lazy"
