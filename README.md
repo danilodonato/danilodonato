@@ -50,15 +50,6 @@ src="assets/mario-gif.gif"
 title="Danilo Donato"> 	
 
 	
-<p align="center">
-	<img  	
-	     	width=8%
-	     	alt="cover"
-		loading="lazy"
-		src="assets/mega_men.gif" 
-		title="Danilo Donato"> 	
-</p>	
-	
 <img  	
 width=15%
 alt="cover"
@@ -73,6 +64,13 @@ title="Danilo Donato">
 	
 	
 	
-
+<p align="center">
+	<img  	
+	     	width=10%
+	     	alt="cover"
+		loading="lazy"
+		src="assets/mega_men.gif" 
+		title="Danilo Donato"> 	
+</p>	
 
 	
