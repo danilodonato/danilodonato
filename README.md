@@ -49,7 +49,7 @@
 	title="Danilo Donato"> 	
 
 <img  	
-width=10%
+width=15%
 alt="cover"
 loading="lazy"
 align="left" 
