@@ -41,12 +41,16 @@
 		src="assets/sonic_run.gif" 
 		title="Danilo Donato">
 
-	<img	
+</p>
+
+
+<p align="center">
+	<img  	
 	     	width=10%
 	     	alt="cover"
 		loading="lazy"
 		src="assets/mario-gif.gif" 
-		title="Danilo Donato"> 	
+		title="Danilo Donato">
 
 </p>
 
