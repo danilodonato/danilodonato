@@ -37,12 +37,7 @@
 <img 
        width="15%" 
        align="center" 
-       src="assets/mario-gif.gif">
-
-
-<img 
-       width="15%" 
-       align="center" 
+       src="assets/mario-gif.gif" 
        src="assets/sonic_run.gif">
 	
 
