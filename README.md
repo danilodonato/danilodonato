@@ -42,17 +42,6 @@
 <p>	
 	
 <img  	
-width=8%
-alt="cover"
-loading="lazy"
-align="center" 
-src="assets/mega_men.gif" 
-title="Danilo Donato"> 			
-
-	
-	
-	
-<img  	
 width=10%
 alt="cover"
 loading="lazy"
@@ -71,8 +60,20 @@ align="left"
 src="assets/sonic_run.gif" 
 title="Danilo Donato"> 	
 
-
-
 </p>	
+		
+	
+	
+<p align="center">
+	
+<img  	
+width=8%
+alt="cover"
+loading="lazy"
+align="center" 
+src="assets/mega_men.gif" 
+title="Danilo Donato"> 			
+</p>
+	
 		
 	
