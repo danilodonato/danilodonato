@@ -26,50 +26,7 @@
         alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=radical&hide_border=true" title="Github Contributions" />
 </p>
 
-### 🚀 Skills & Technologies
 
-<p align="left">
-  🌒 Programming Language: <strong>Python, SQL, Java and R.</strong>
-</p>
-
-<p align="left">
-  🌓 Relational Database: <strong>MySQL, PostgreSQL and SQL Server.</strong>
-</p>
-
-<p align="left">
-  🌔 NoSQL Database: <strong>MongoDB.</strong>
-</p>
-
-<p align="left">
-  🌕 Hadoop Ecosystem: <strong>Apache NiFi, Apache Spark and Apache Hive.</strong>
-</p>
-
-<p align="left">
-  🌖 Cloud: <strong>Amazon Web Services, Microsoft Azure and Google Cloud Platform.</strong>
-</p>
-
-<p align="left">
-  🌗 Tools: <strong>VS Code, PyCharm, Sublime Text, Jupyter Notebook, RStudio and Postman.</strong>
-</p>
-
-<p align="left">
-  🌘 DevOps: <strong>Git and GitHub.</strong>
-</p>
-
-<p align="left">
-  🌑 Operational System: <strong>Linux and Windows.</strong>
-</p>
-
-
-### Hi, Welcome to my profile 
-
-My name is Danilo Donato, I am 19 years old and I am graduated in analysis and systems development by Uninove.
-<br>I love music, games and programming. My favorite band is "Red Hot Chili Peppers", and my favorite game is "Skyrim".
-<br>My dream is to live and work as a data engineer in Canada.
-
-I am currently working as a Data Engineer at @BlueShift Brasil.
- 
- ### 🔎 Where to find me
 
 <p align="left">
 
@@ -79,6 +36,5 @@ I am currently working as a Data Engineer at @BlueShift Brasil.
 
 </p>  
  
-![Snake animation](https://github.com/danilo8br/danilo8br/blob/output/github-contribution-grid-snake.svg)
 
 
