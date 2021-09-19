@@ -63,7 +63,7 @@ title="Danilo Donato">
 
 <p align="center">
 	<img  	
-	     	width=10%
+	     	width=8%
 	     	alt="cover"
 		loading="lazy"
 		src="assets/mega_men.gif" 
