@@ -72,7 +72,7 @@ title="Danilo Donato">
 	     	width=500%
 	     	alt="cover"
 		loading="lazy"
-		src="assets/mega-men.gif" 
+		src="assets/mega_men.gif" 
 		title="Danilo Donato"> 	
 </p>	
 	
