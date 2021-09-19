@@ -17,7 +17,7 @@
 </p>  
  
  
- <p align="right">
+ <p align="center">
 	<img  	
 	     	width=10%
 	     	alt="cover"
