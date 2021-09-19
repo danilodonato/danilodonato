@@ -36,10 +36,10 @@
 	
 
 <li>
-	<img width="15%" align="center" src="assets/mario-gif.gif"     
+	<img width="10%" align="left" src="assets/mario-gif.gif"     
  </li>
 <li>
-	<img width="15%" align="center" src="assets/sonic_run.gif"     
+	<img width="15%" align="right" src="assets/sonic_run.gif"     
 </li>
 
 
