@@ -33,13 +33,3 @@
 
 </p>  
 
-	
-
-<li>
-	<img width="10%" align="left" src="assets/mario-gif.gif"     
- </li>
-<li>
-	<img width="15%" align="right" src="assets/sonic_run.gif"     
-</li>
-
-
