@@ -31,13 +31,9 @@
     <img src="https://img.shields.io/badge/-Linkedin-141321?style=for-the-badge&logo=Linkedin&logoColor=A2F2EA&link=https://www.linkedin.com/in/danilodonato/"/>
   </a>
 
-</p>  
-
-
- <p align="left">
 
   <a href="https://www.instagram.com/daan.py/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Linkedin-141321?style=for-the-badge&logo=Linkedin&logoColor=A2F2EA&link=https://www.instagram.com/daan.py/"/>
+    <img src="https://img.shields.io/badge/-Linkedin-141321?style=for-the-badge&logo=Instagram&logoColor=A2F2EA&link=https://www.instagram.com/daan.py/"/>
   </a>
 
 </p>  
