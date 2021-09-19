@@ -8,14 +8,6 @@
 </p>
 	
 
-<p align="left">
-
-  <a href="https://www.linkedin.com/in/danilodonato/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-141321?style=for-the-badge&logo=Linkedin&logoColor=A2F2EA&link=https://www.linkedin.com/in/danilodonato/"/>
-  </a>
-
-</p>  
-
 
 <p>
   <img 
@@ -35,6 +27,15 @@
         align="center" 
         alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=radical&hide_border=true" title="Github Contributions" />
 </p>
+ 
+ 
+ <p align="left">
+
+  <a href="https://www.linkedin.com/in/danilodonato/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-141321?style=for-the-badge&logo=Linkedin&logoColor=A2F2EA&link=https://www.linkedin.com/in/danilodonato/"/>
+  </a>
+
+</p>  
  
  
  <p align="center">
