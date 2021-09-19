@@ -40,7 +40,7 @@
 	     	alt="cover"
 		loading="lazy"
 		src="assets/mario-gif.gif" 
-		title="Danilo Donato"
+		title="Danilo Donato">
 	
 	 	
 	     	width=15%
