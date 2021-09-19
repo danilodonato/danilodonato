@@ -39,16 +39,15 @@
 </p>  
 
 
-<p align="center">
-	
-<img  	
+<p align="center">	
+	<img  	
 	width=10%
 	alt="cover"
 	loading="lazy"
 	src="assets/mario-gif.gif" 
 	title="Danilo Donato"> 	
 
-<img  	
+	<img  	
 	width=10%
 	alt="cover"
 	loading="lazy"
