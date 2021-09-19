@@ -33,22 +33,13 @@
 
 </p>  
 
-<p align="center">
-	
-	<img  	
-	     	width=10%
-	     	alt="cover"
-		loading="lazy"
-		src="assets/mario-gif.gif" 
-	     
-	     
-	     	width=10%
-	     	alt="cover"
-		loading="lazy"
-		src="assets/sonic_run.gif" >
+
+<img  	
+width=500%
+alt="cover"
+loading="lazy"
+src="assets/carbon5.png" 
+title="Danilo Donato"> 	
 
 
-
-	
-</p>
 
