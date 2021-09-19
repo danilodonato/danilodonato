@@ -40,13 +40,13 @@
 
 
 <p>	
-	<img  	
-	width=10%
-	alt="cover"
-	loading="lazy"
-	align="right" 
-	src="assets/mario-gif.gif" 
-	title="Danilo Donato"> 	
+<img  	
+width=10%
+alt="cover"
+loading="lazy"
+align="right" 
+src="assets/mario-gif.gif" 
+title="Danilo Donato"> 	
 
 <img  	
 width=15%
