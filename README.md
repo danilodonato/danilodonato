@@ -39,7 +39,7 @@
  
  <p align="center">
 	<img  	
-	     	width=500%
+	     	width=10%
 	     	alt="cover"
 		loading="lazy"
 		src="assets/mario-gif.gif" 
