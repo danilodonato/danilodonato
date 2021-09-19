@@ -34,12 +34,12 @@
 </p>  
 
 	
-<ul>
-     <li>
+
+<li>
 	<img width="15%" align="center" src="assets/mario-gif.gif"     
-     </li>
-    <li>
+ </li>
+<li>
 	<img width="15%" align="center" src="assets/sonic_run.gif"     
-    </li>
-</ul>
+</li>
+
 
