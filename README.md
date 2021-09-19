@@ -31,7 +31,7 @@
 <p align="left">
 
   <a href="https://www.linkedin.com/in/danilodonato/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-050F2C?style=for-the-badge&logo=Linkedin&logoColor=141321&link=https://www.linkedin.com/in/danilodonato/"/>
+    <img src="https://img.shields.io/badge/-Linkedin-050F2C?style=for-the-badge&logo=Linkedin&logoColor=D93D86&link=https://www.linkedin.com/in/danilodonato/"/>
   </a>
 
 </p>  
