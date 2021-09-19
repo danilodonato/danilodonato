@@ -68,15 +68,11 @@ title="Danilo Donato">
 	
 
 <p align="center">
-
-<img  	
-width=8%
-alt="cover"
-loading="lazy" 
-align="center" 
-src="assets/mega_men.gif" 
-title="Danilo Donato"> 			
-</p>
-	
-		
+	<img  	
+	     	width=500%
+	     	alt="cover"
+		loading="lazy"
+		src="assets/mega-men.gif" 
+		title="Danilo Donato"> 	
+</p>	
 	
