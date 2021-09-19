@@ -42,7 +42,7 @@
 	     	width=500%
 	     	alt="cover"
 		loading="lazy"
-		src="assets/carbon5.png" 
+		src="assets/mario-gif.gif" 
 		title="Danilo Donato"> 	
 </p>
 
