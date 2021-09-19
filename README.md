@@ -6,8 +6,6 @@
 		src="assets/carbon5.png" 
 		title="Danilo Donato"> 	
 </p>
-	
-
 
 <p>
   <img 
@@ -18,7 +16,6 @@
        src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=radical&&show_icons=true&hide_border=true "/>     
 </p>
 
-
 <p>
   <img 
         width="48%" 
@@ -28,7 +25,6 @@
         alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=radical&hide_border=true" title="Github Contributions" />
 </p>
  
- 
  <p align="left">
 
   <a href="https://www.linkedin.com/in/danilodonato/" alt="Linkedin">
@@ -36,8 +32,7 @@
   </a>
 
 </p>  
- 
- 
+
  <p align="center">
 	<img  	
 	     	width=10%
