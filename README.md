@@ -36,14 +36,14 @@
 
 <p align="center">
 	<img  	
-	     	width=500%
+	     	width=15%
 	     	alt="cover"
 		loading="lazy"
 		src="assets/mario-gif.gif" 
-		title="Danilo Donato"> 	
+		title="Danilo Donato"
 	
-	<img  	
-	     	width=500%
+	 	
+	     	width=15%
 	     	alt="cover"
 		loading="lazy"
 		src="assets/sonic_run.gif" 
