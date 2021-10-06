@@ -1,12 +1,26 @@
-<p align="center">
-	<img  	
-	     	width=500%
-	     	alt="cover"
-		loading="lazy"
-		src="assets/carbon5.png" 
-		title="Danilo Donato"> 	
-</p>
+```
+class Danilo:
 
+    def __init__(self) -> None:
+        self.nome = 'Danilo Donato'
+        self.idade = 20
+        self.cargo = 'Data Engineer'
+        self.empresa_atual = 'Blueshift Brasil'
+
+    def about(self) -> str:
+        return'''
+        Graduated in analysis and systems development by Uninove.
+        O love music, games and programming. My favorite band is "Red Hot Chili Peppers"
+        and my favorite game is "Skyrim".
+        My dream is to live and work as a data engineer in Canada.
+        '''
+
+    def main_skills(self) -> list:
+        return ['Python', 'MySQL', 'MongoDB', 'AWS', 'Spark', 'Linux', 'Selenium', 'Git']
+
+    def other_skills(self) -> list:
+        return ['Flask', 'Django', 'Azure', 'GCP', 'Apache Nifi']
+```
 <p>
   <img 
        width="48%" 
