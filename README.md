@@ -1,3 +1,15 @@
+	
+<p align="Right">
+	<img  	
+	     	width=10%
+	     	alt="cover"
+		loading="lazy"
+		src="assets/lakitu.gif" 
+		title="Danilo Donato"> 	
+</p>	
+
+
+
 <p align="center">
 	<img  	
 	     	width="110%"
