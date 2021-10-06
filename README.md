@@ -1,5 +1,5 @@
 	
-<p align="Right">
+<p align="center">
 	<img  	
 	     	width=10%
 	     	alt="cover"
