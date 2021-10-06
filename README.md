@@ -1,4 +1,4 @@
-```
+
 class Danilo:
 
     def __init__(self) -> None:
@@ -20,7 +20,7 @@ class Danilo:
 
     def other_skills(self) -> list:
         return ['Flask', 'Django', 'Azure', 'GCP', 'Apache Nifi']
-```
+
 <p>
   <img 
        width="48%" 
