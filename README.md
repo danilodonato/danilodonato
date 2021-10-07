@@ -11,15 +11,15 @@
 
 ## Hi, Welcome to my profile 
 
-**about =**  '''My name is Danilo Donato, I am 20 years old and I am graduated in analysis and systems development by Uninove.
+👨‍💻 My name is Danilo Donato, I am 20 years old and I am graduated in analysis and systems development by Uninove.
 <br>I love music, games and programming. My favorite band is "Red Hot Chili Peppers", and my favorite game is "Skyrim".
 <br>My dream is to live and work as a data engineer in Canada.
 
-I am currently working as a Data Engineer at @BlueShift Brasil.'''
+I am currently working as a Data Engineer at @BlueShift Brasil
 
-**main_skills =** ['Python', 'MySQL', 'MongoDB', 'AWS', 'Spark', 'Linux', 'Selenium', 'Flask']
+**Skills:** Python, MySQL, MongoDB, AWS, Spark, Linux, Selenium and Flask.
 
-**other_skills =** ['Django', 'Azure', 'GCP', 'PowerBI', 'Apache Nifi']
+**Other Skills:** Django, Azure, GCP, PowerBI and Apache Nifi.
 
 
 
