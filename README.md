@@ -9,34 +9,20 @@
 </p>	
 
 
+## Hi, Welcome to my profile 
 
-<p align="center">
-	<img  	
-	     	width="110%"
-	     	alt="cover"
-		loading="lazy"
-		src="assets/carbon5.png" 
-		title="Danilo Donato"> 	
-</p>
+**about =**  '''My name is Danilo Donato, I am 20 years old and I am graduated in analysis and systems development by Uninove.
+<br>I love music, games and programming. My favorite band is "Red Hot Chili Peppers", and my favorite game is "Skyrim".
+<br>My dream is to live and work as a data engineer in Canada.
 
-<p>
-  <img 
-       width="48%" 
-       min-width="420px" 
-       height="200px" 
-       align="left" 
-       src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=radical&&show_icons=true&hide_border=true "/>     
-</p>
+I am currently working as a Data Engineer at @BlueShift Brasil.'''
 
-<p>
-  <img 
-        width="48%" 
-        min-width="420px" 
-        height="200px" 
-        align="center" 
-        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=danilo8br&theme=radical&hide_border=true" title="Github Contributions" />
-</p>
- 
+**main_skills =** ['Python', 'MySQL', 'MongoDB', 'AWS', 'Spark', 'Linux', 'Selenium', 'Flask']
+
+**other_skills =** ['Django', 'Azure', 'GCP', 'PowerBI', 'Apache Nifi']
+
+
+
  <p align="left">
 
   <a href="https://www.linkedin.com/in/danilodonato/" alt="Linkedin">
