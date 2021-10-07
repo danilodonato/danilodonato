@@ -16,9 +16,7 @@
 <br>My dream is to live and work as a data engineer in Canada.
 I am currently working as a Data Engineer at @BlueShift Brasil**
 
-🔮 **Skills:** Python, MySQL, MongoDB, AWS, Spark, Linux, Selenium and Flask.
-
-**Other Skills:** Django, Azure, GCP, PowerBI and Apache Nifi.
+🔮 Skills: **Python, MySQL, MongoDB, AWS, Spark, Linux, Selenium, Flask, Azure and PowerBI.**
 
 
 
