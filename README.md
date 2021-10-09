@@ -53,7 +53,14 @@
 
   <a href="https://discord.gg/kzCs586SHe" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-1A1C26?style=for-the-badge&logo=Discord&logoColor=3BBFA7&link=https://discord.gg/kzCs586SHe"/>
+	  
   </a>
+	
+  <a href="https://dev.to/danilo8br" alt="Dev">
+    <img src="https://img.shields.io/badge/-Dev-1A1C26?style=for-the-badge&logo=Discord&logoColor=3BBFA7&link=https://dev.to/danilo8br"/>
+	  
+  </a>
+
   		
 	
 </p>  
