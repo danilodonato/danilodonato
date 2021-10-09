@@ -56,12 +56,8 @@
 	  
   </a>
 	
-  <a href="https://dev.to/danilo8br" alt="Dev">
-    <img src="https://img.shields.io/badge/-Dev-1A1C26?style=for-the-badge&logo=Dev&logoColor=3BBFA7&link=https://dev.to/danilo8br"/>
-	  
-  </a>
 
-  		
+ 		
 	
 </p>  
 
