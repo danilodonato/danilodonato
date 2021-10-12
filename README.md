@@ -15,13 +15,18 @@
   <a href="https://discord.gg/kzCs586SHe" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-1A1C26?style=for-the-badge&logo=Discord&logoColor=1ABFE6&link=https://discord.gg/kzCs586SHe"/>
 	  
-  </a>
-	
-
- 		
+  </a>		
 	
 </p>  
 
 
+👨‍💻 About: **My name is Danilo Donato, I am 20 years old and I am graduated in analysis and systems development by Uninove.
+<br>I love music, games and programming. My favorite band is "Red Hot Chili Peppers", and my favorite game is "Skyrim".
+<br>My dream is to live and work as a data engineer in Canada.
+<br>I am currently working as a Data Engineer at @BlueShift Brasil**
+
+🔮 Skills: **Python, Git, MySQL, MongoDB, AWS, Spark, Linux, Selenium, Flask, Azure and PowerBI.**
+
+🔧 Tools: **VS Code, Jupyter Notebook and Sublime.**
 
 	
