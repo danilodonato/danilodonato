@@ -11,11 +11,11 @@
 ## 🔮Skills
 
 **Python, Git, MySQL, MongoDB, AWS, Spark, Linux, Selenium, Flask, Azure and PowerBI.**
-
-## 🔧 Tools: 
+<p>
+## 🔧 Tools
 
 **VS Code, Jupyter Notebook and Sublime.**
-	
+</p>	
  <p align="left">
 
   <a href="https://www.linkedin.com/in/danilodonato/" alt="Linkedin">
