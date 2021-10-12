@@ -3,7 +3,7 @@
 	     	width="110%"
 	     	alt="cover"
 		loading="lazy"
-		src="assets/Banner Github (2).png" 
+		src="assets/Banner Github (3).png" 
 		title="Danilo Donato"> 	
 </p>
 
