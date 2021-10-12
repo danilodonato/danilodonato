@@ -12,7 +12,7 @@
 
 **Python, Git, MySQL, MongoDB, AWS, Spark, Linux, Selenium, Flask, Azure and PowerBI.**
 
-## 🔧 Tools
+## 🔧Tools
 
 **VS Code, Jupyter Notebook and Sublime.**
 	
