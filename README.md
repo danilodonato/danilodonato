@@ -7,17 +7,6 @@
 		title="Danilo Donato"> 	
 </p>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">Hi, Welcome to my profile 
-
-👨‍💻 About: **My name is Danilo Donato, I am 20 years old and I am graduated in analysis and systems development by Uninove.
-<br>I love music, games and programming. My favorite band is "Red Hot Chili Peppers", and my favorite game is "Skyrim".
-<br>My dream is to live and work as a data engineer in Canada.
-<br>I am currently working as a Data Engineer at @BlueShift Brasil**
-
-🔮 Skills: **Python, Git, MySQL, MongoDB, AWS, Spark, Linux, Selenium, Flask, Azure and PowerBI.**
-
-🔧 Tools: **VS Code, Jupyter Notebook and Sublime.**
-
 <p>
   <img 
        width="48%" 
@@ -60,38 +49,5 @@
 </p>  
 
 
-<p>	
-	
-<img  	
-width=10%
-alt="cover"
-loading="lazy"
-align="right" 
-src="assets/mario-gif.gif" 
-title="Danilo Donato"> 	
-
-	
-<img  	
-width=15%
-alt="cover"
-loading="lazy"
-align="left" 
-src="assets/sonic_run.gif" 
-title="Danilo Donato"> 	
-
-</p>	
-		
-	
-	
-	
-	
-<p align="center">
-	<img  	
-	     	width=10%
-	     	alt="cover"
-		loading="lazy"
-		src="assets/mega_men.gif" 
-		title="Danilo Donato"> 	
-</p>	
 
 	
