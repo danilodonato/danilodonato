@@ -10,7 +10,7 @@
 
 ## 🔮Skills
 
-\n**Python, Git, MySQL, MongoDB, AWS, Spark, Linux, Selenium, Flask, Azure and PowerBI.**
+**Python, Git, MySQL, MongoDB, AWS, Spark, Linux, Selenium, Flask, Azure and PowerBI.**
 
 ## 🔧Tools
 
