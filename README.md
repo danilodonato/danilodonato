@@ -1,11 +1,5 @@
-<p align="center">
-	<img  	
-	     	width="110%"
-	     	alt="cover"
-		loading="lazy"
-		src="assets/Cover for GitHub5.gif" 
-		title="Danilo Donato"> 	
-</p>
+![849790](https://user-images.githubusercontent.com/51414398/136880734-7a770873-d89b-496a-8ad0-207b95d019ba.gif)
+
 
  <p align="left">
 
