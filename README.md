@@ -1,6 +1,6 @@
 ![849790](https://user-images.githubusercontent.com/51414398/136880919-f1d1795c-75a7-4fa0-ae29-4967ef685c89.gif)
 
-## Hi, Welcome to my profile 
+## ☕ Hi, Welcome to my profile 
 
 **My name is Danilo Donato, I am 20 years old and I am graduated in analysis and systems development by Uninove.
 <br>I love music, games and programming. My favorite band is "Red Hot Chili Peppers", and my favorite game is "Skyrim".**
