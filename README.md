@@ -15,7 +15,9 @@
 ## 🔧Tools
 
 **VS Code, Jupyter Notebook and Sublime.**
-	
+
+--
+
  <p align="left">
 
   <a href="https://www.linkedin.com/in/danilodonato/" alt="Linkedin">
