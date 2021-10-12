@@ -1,13 +1,11 @@
-	
 <p align="center">
 	<img  	
-	     	width=10%
+	     	width="110%"
 	     	alt="cover"
 		loading="lazy"
-		src="assets/lakitu.gif" 
+		src="assets/Banner Github" 
 		title="Danilo Donato"> 	
-</p>	
-
+</p>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">Hi, Welcome to my profile 
 
