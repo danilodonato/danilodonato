@@ -2,7 +2,7 @@
 
 ## Hi, Welcome to my profile 
 
-👨‍💻**My name is Danilo Donato, I am 20 years old and I am graduated in analysis and systems development by Uninove.
+**My name is Danilo Donato, I am 20 years old and I am graduated in analysis and systems development by Uninove.
 <br>I love music, games and programming. My favorite band is "Red Hot Chili Peppers", and my favorite game is "Skyrim".
 <br>My dream is to live and work as a data engineer in Canada.
 <br>I am currently working as a Data Engineer at @BlueShift Brasil**
