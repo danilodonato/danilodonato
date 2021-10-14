@@ -8,11 +8,9 @@
 
 **I am currently working as a Data Engineer at @BlueShift Brasil**
 
-**🔮Skills**Python, Git, MySQL, MongoDB, AWS, Spark, Linux, Selenium, Flask, Azure and PowerBI.
+**🔮 Skills:** Python, Git, MySQL, MongoDB, AWS, Spark, Linux, Selenium, Flask, Azure and PowerBI.
 
-## 🔧Tools
-
-**VS Code, Jupyter Notebook and Sublime.**
+**🔧 Tools:** VS Code, Jupyter Notebook and Sublime.
 
 ---
 
