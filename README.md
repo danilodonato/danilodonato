@@ -1,4 +1,11 @@
-![849790](https://user-images.githubusercontent.com/51414398/136880919-f1d1795c-75a7-4fa0-ae29-4967ef685c89.gif)
+<p align="center">
+	<img  	
+	     	width="110%"
+	     	alt="cover"
+		loading="lazy"
+		src="assets/star.gif" 
+		title="Danilo Donato"> 	
+</p>
 
 ## ☕ Hi, Welcome to my profile 
 **My name is Danilo Donato, I am 20 years old and I am graduated in analysis and systems development by Uninove.
