@@ -17,7 +17,7 @@
 
 **🔮 Skills:** Python, Git, MySQL, MongoDB, AWS, Spark, Linux, Selenium, Flask, Azure and PowerBI.
 
-**🔧 Tools:** VS Code, Jupyter Notebook and Sublime.
+**🔧 Tools:** VS Code, Jupyter Notebook, Databricks and Sublime.
 
 
 
