@@ -17,11 +17,9 @@
 
 **I am currently working as a Data Engineer at @BlueShift Brasil**
 
-<p>
-## Skiils
 
-**Python, MySQL, MongoDB, Git, Selenium, Spark, AWS, Azure, Apache NiFi, Flask and Power BI.**
-</p>
+**Skills: Python, MySQL, MongoDB, Git, Selenium, Spark, AWS, Azure, Apache NiFi, Flask and Power BI.**
+
 	
 	
  <p align="left">
