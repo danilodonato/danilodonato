@@ -18,7 +18,8 @@
 
 🎯 **Skills: Python, MySQL, MongoDB, Git, Selenium, Spark, AWS, Azure, Apache NiFi, Flask and Power BI.**
 
-	
+[<img src="https://spotify-now-playing-steel.vercel.app/api/spotify-playing" alt="Diogo Spotify Playing" width="350" />]
+(https://open.spotify.com/user/21adcgopfuxifyqejpgnc7fcy)	
 	
  <p align="left">
 
