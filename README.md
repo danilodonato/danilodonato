@@ -13,9 +13,8 @@
 **My name is Danilo Donato, I am 20 years old and I am graduated in analysis and systems development by Uninove.
 <br>I love music, games and programming. My favorite band is "Red Hot Chili Peppers", and my favorite game is "Skyrim".**
 <br>**My dream is to live and work as a data engineer in Canada.**
-<br>**I am currently working as a Data Engineer at @BlueShift Brasil**
 
-- 🎓 **Formation: Graduated in Systems Analysis and Development**
+- 🎓 **Formation: Graduated in Systems Analysis and Development.**
 - 🎯 **Skills: Python, MySQL, MongoDB, Git, Selenium, Spark, AWS, Azure, Apache NiFi, Flask and Power BI.**
 - ⚛️ **Learning: Apache Airflow, Kubernetes, Docker**
 
