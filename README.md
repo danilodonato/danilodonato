@@ -40,4 +40,6 @@
 </p>  
 
 
+[![Spotify](https://novatorem-eta-ruby.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 
