@@ -18,9 +18,11 @@
 
 🎯 **Skills: Python, MySQL, MongoDB, Git, Selenium, Spark, AWS, Azure, Apache NiFi, Flask and Power BI.**
 
-	
-	
- <p align="left">
+
+[![Spotify](https://novatorem-eta-ruby.vercel.app/api/spotify)](https://open.spotify.com/user/9c7cce9446504bc697415fc50103e691)
+
+
+<p align="left">
 
   <a href="https://www.linkedin.com/in/danilodonato/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1A1C26?style=for-the-badge&logo=Linkedin&logoColor=1DB954&link=https://www.linkedin.com/in/danilodonato/"/>
@@ -38,8 +40,3 @@
   </a>		
 	
 </p>  
-
-
-[![Spotify](https://novatorem-eta-ruby.vercel.app/api/spotify)](https://open.spotify.com/user/9c7cce9446504bc697415fc50103e691)
-
-
