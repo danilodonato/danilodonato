@@ -40,6 +40,8 @@
 </p>  
 
 
-[![Spotify](https://novatorem-m5o7aqk88-danilo8br.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-m5o7aqk88-danilo8br.vercel.app)
+[![Spotify](https://novatorem-eta-ruby.vercel.app
+/api/spotify)](https://open.spotify.com/user/novatorem-eta-ruby.vercel.app
+)
 
 
