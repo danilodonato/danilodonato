@@ -38,3 +38,8 @@
   </a>		
 	
 </p>  
+
+
+[![Spotify](https://danilo8br.vercel.app/api/spotify)](https://open.spotify.com/user/danilo8br)
+
+
