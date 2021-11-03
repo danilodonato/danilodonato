@@ -40,5 +40,4 @@
 </p>  
 
 
-[<img src="https://danilo8br.vercel.app/api/spotify-playing" alt="Diogo Spotify Playing" width="350" />](https://open.spotify.com/user/21adcgopfuxifyqejpgnc7fcy)
 
