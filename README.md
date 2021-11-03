@@ -40,6 +40,5 @@
 </p>  
 
 
-[![Spotify](https://novatorem-m5o7aqk88-danilo8br.vercel.app/api/spotify)](https://open.spotify.com/user/9c7cce9446504bc697415fc50103e691)
-
+[<img src="https://spotify-now-playing-steel.vercel.app/api/spotify-playing" alt="Diogo Spotify Playing" width="350" />](https://open.spotify.com/user/21adcgopfuxifyqejpgnc7fcy)
 
