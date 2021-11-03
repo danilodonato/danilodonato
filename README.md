@@ -21,7 +21,7 @@
 
 
 
-[![Spotify](https://novatorem-eta-ruby.vercel.app/api/spotify)](https://open.spotify.com/user/9c7cce9446504bc697415fc50103e691)
+
 
 
 <p align="left">
@@ -42,3 +42,5 @@
   </a>		
 	
 </p>  
+
+[![Spotify](https://novatorem-eta-ruby.vercel.app/api/spotify)](https://open.spotify.com/user/9c7cce9446504bc697415fc50103e691)
