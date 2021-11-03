@@ -40,7 +40,6 @@
 </p>  
 
 
-[![Spotify](https://novatorem-m5o7aqk88-danilo8br.vercel.app/api/spotify)](https://open.spotify.com/user/9c7cce9446504bc697415fc50103e691)
-
+[![Spotify](https://novatorem-danilo8br.vercel.app/api/spotify)](https://open.spotify.com/user/9c7cce9446504bc697415fc50103e691)
 
 
