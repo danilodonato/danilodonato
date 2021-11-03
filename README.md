@@ -15,8 +15,11 @@
 <br>**My dream is to live and work as a data engineer in Canada.**
 <br>**I am currently working as a Data Engineer at @BlueShift Brasil**
 
+- 🎓 **Formation: Graduated in Systems Analysis and Development**
+- 🎯 **Skills: Python, MySQL, MongoDB, Git, Selenium, Spark, AWS, Azure, Apache NiFi, Flask and Power BI.**
+- ⚛️ **Learning: Apache Airflow, Kubernetes, Docker**
 
-🎯 **Skills: Python, MySQL, MongoDB, Git, Selenium, Spark, AWS, Azure, Apache NiFi, Flask and Power BI.**
+
 
 
 [![Spotify](https://novatorem-eta-ruby.vercel.app/api/spotify)](https://open.spotify.com/user/9c7cce9446504bc697415fc50103e691)
