@@ -10,8 +10,9 @@
 
 
 ## ☕ Hi, Welcome to my profile 
-*You can't predict the future, but you can program it*
+### *You can't predict the future, but you can program it*
 
+**I'm a young developer who wants to change the world through technology!
 <br>I love music, games and programming. My favorite band is "Red Hot Chili Peppers", and my favorite game is "Skyrim".**
 <br>**My dream is to live and work as a data engineer in Canada.**
 
