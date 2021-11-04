@@ -10,7 +10,8 @@
 
 
 ## ☕ Hi, Welcome to my profile 
-**I am a data engineer who is passionate about technology.
+*You can't predict the future, but you can program it*
+
 <br>I love music, games and programming. My favorite band is "Red Hot Chili Peppers", and my favorite game is "Skyrim".**
 <br>**My dream is to live and work as a data engineer in Canada.**
 
