@@ -14,7 +14,6 @@
 
 **I'm a young developer who wants to change the world through technology!**
 
-- 💼 **I'm currently working as a Data Engineer at @Blueshift Brasil.**
 - 🎓 **Formation: Graduated in Systems Analysis and Development.**
 - 🎯 **Skills: Python, MySQL, MongoDB, Git, Selenium, Spark, AWS, Azure, Apache NiFi, Flask and Power BI.**
 - ⚛️ **Learning: Apache Airflow, Kubernetes, Docker**
