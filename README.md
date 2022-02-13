@@ -9,7 +9,7 @@
 
 <p align="right">
 	<img  	
-	     	width="50%%"
+	     	width="30%%"
 	     	alt="cover"
 		    loading="lazy"
 		    src="assets/cat.gif" 
