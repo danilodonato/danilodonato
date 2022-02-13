@@ -7,7 +7,7 @@
 - 🎯 **Skills: Python, MySQL, MongoDB, Git, Selenium, Spark, AWS, Azure, Apache NiFi, Flask and Power BI.**
 - ⚛️ **Learning: Apache Airflow, Kubernetes, Docker**
 
-<img align="right" width="50%%" alt="cover" loading="lazy" src="assets/cat.gif" title="Danilo Donato"> 	
+<img align="right" width="35%%" alt="cover" loading="lazy" src="assets/cat.gif" title="Danilo Donato"> 	
 
 [![Spotify](https://novatorem-eta-ruby.vercel.app/api/spotify)](https://open.spotify.com/user/9c7cce9446504bc697415fc50103e691)
 
