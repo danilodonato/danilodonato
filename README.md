@@ -12,7 +12,7 @@
 	     	width="50%%"
 	     	alt="cover"
 		    loading="lazy"
-		    src="cat.gif" 
+		    src="assets/cat.gif" 
 		    title="Danilo Donato"> 	
 </p>
 
