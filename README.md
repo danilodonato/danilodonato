@@ -4,6 +4,7 @@
         alt="cover"
 	loading="lazy"
 	src="assets/room.gif" 
+	border-radius='15px'
 	title="Danilo Donato"> 	
 </p>
 
