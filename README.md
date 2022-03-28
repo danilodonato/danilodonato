@@ -25,9 +25,7 @@
        alt="Github Contributions" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&layout=compact&theme=algolia&&show_icons=true&border_color=00F0FF&border_radius=10px"/>     
 </p>
 
-# **Data Software Engineer**
-
-<br>
+# **Danilo Donato - Data Software Engineer**
 
 **I'm a young developer who wants to change the world through technology!**
 - 🎓 **Formation: Graduated in Systems Analysis and Development.**
