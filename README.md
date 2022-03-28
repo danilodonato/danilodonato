@@ -45,6 +45,6 @@
 
 
 <a href="https://discord.gg/kzCs586SHe" alt="Discord">
-<img src="https://img.shields.io/badge/-Discord-1A1C26?style=for-the-badge&logo=Discord&logoColor=00F0FF&link=https://discord.gg/kzCs586SHe"/>
+<img src="https://img.shields.io/badge/-Discord-1A1C26?style=for-the-badge&logo=Discord&logoColor=00F0FF&border_radius=10px&link=https://discord.gg/kzCs586SHe"/>
     
 </a>		
