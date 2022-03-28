@@ -2,9 +2,9 @@
 	<img  	
         width="110%"
         alt="cover"
-		loading="lazy"
-		src="room.gif" 
-		title="Danilo Donato"> 	
+	loading="lazy"
+	src="assets/room.gif" 
+	title="Danilo Donato"> 	
 </p>
 
 <p>
