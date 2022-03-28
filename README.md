@@ -29,10 +29,8 @@
 
 
 ## **Data Software Engineer**
----
 #### *"You can't predict the future, but you can program it"*
 <br>
-
 **I'm a young developer who wants to change the world through technology!**
 - 🎓 **Formation: Graduated in Systems Analysis and Development.**
 - 🎯 **Skills: Python, MySQL, MongoDB, Git, Selenium, Spark, AWS, Azure, Apache NiFi, Flask and Power BI.**
