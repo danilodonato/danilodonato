@@ -22,16 +22,11 @@
        min-width="420px" 
        height="200px" 
        align="center" 
-       alt="Github Contributions" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&layout=compact&theme=algolia&&show_icons=true&border_color=00F0FF&border_radius=10px"
-/>     
+       alt="Github Contributions" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&layout=compact&theme=algolia&&show_icons=true&border_color=00F0FF&border_radius=10px"/>     
 </p>
 
 ## **Data Software Engineer**
 *"You can't predict the future, but you can program it"*
---- 
-
-<br>
-
 **I'm a young developer who wants to change the world through technology!**
 - 🎓 **Formation: Graduated in Systems Analysis and Development.**
 - 🎯 **Skills: Python, MySQL, MongoDB, Git, Selenium, Spark, AWS, Azure, Apache NiFi, Flask and Power BI.**
