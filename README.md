@@ -26,6 +26,7 @@
 </p>
 
 Data Software Engineer
+<br>
 *"You can't predict the future, but you can program it"*
 ---
 
