@@ -29,7 +29,7 @@
 
 
 ## **Data Software Engineer**
-### *"You can't predict the future, but you can program it"*
+*"You can't predict the future, but you can program it"*
 
 <br>
 
