@@ -1,6 +1,6 @@
 <p align="center">
 	<img  	
-        width="80%"
+        width="100%"
         alt="cover"
 	loading="lazy"
 	src="assets/room.gif" 
@@ -9,9 +9,9 @@
 
 <p>
   <img 
-       width="300%" 
+       width="48%" 
        min-width="420px" 
-       height="100px" 
+       height="200px" 
        align="left" 
        alt="Github Contributions" src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=algolia&&show_icons=true&border_color=00F0FF&border_radius=10px"/>     
 </p>
