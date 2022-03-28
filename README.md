@@ -27,6 +27,7 @@
 
 Data Software Engineer
 *"You can't predict the future, but you can program it"*
+---
 
 **I'm a young developer who wants to change the world through technology!**
 - 🎓 **Formation: Graduated in Systems Analysis and Development.**
