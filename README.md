@@ -14,7 +14,7 @@
        min-width="420px" 
        height="200px" 
        align="left" 
-       alt="Github Contributions" src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=algolia&&show_icons=true&border_color=00F0FF&border_radius=10px"/>     
+       alt="Github Contributions" src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=algolia&&show_icons=true&hide_border=true&border_radius=10px"/>     
 </p>
 
 <p>
@@ -23,7 +23,7 @@
        min-width="420px" 
        height="200px" 
        align="center" 
-       alt="Github Contributions" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&layout=compact&theme=algolia&&show_icons=true&border_color=00F0FF&&border_radius=10px"/>     
+       alt="Github Contributions" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&layout=compact&theme=algolia&&show_icons=true&hide_border=true&&border_radius=10px"/>     
 </p>
 
 # **Danilo Donato - Data Software Engineer**
