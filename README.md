@@ -33,8 +33,6 @@
 - 🎯 **Skills: Python, MySQL, MongoDB, Git, Selenium, Spark, AWS, Azure, Apache NiFi, Flask and Power BI.**
 - ⚛️ **Learning: Apache Airflow, Kubernetes, Docker**
 
-
-
 <a href="https://www.linkedin.com/in/danilodonato/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-1A1C26?style=for-the-badge&logo=Linkedin&logoColor=00F0FF&link=https://www.linkedin.com/in/danilodonato/"/>
 </a>
