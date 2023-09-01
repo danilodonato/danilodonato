@@ -1,3 +1,5 @@
+<img src='assets/LinkedIn cover - 4.png'>
+
 # 🍁 Data Engineer & Developer
 
 
