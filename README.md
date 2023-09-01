@@ -1,35 +1,14 @@
-<p align="center">
-	<img  	
-        width="100%"
-        alt="cover"
-	loading="lazy"
-	src="assets/star.gif" 
-	border-radius='15px'
-	title="Danilo Donato"> 	
-</p>
+# Data Engineer & Developer
 
-<p>
-  <img 
-       width="48%" 
-       min-width="420px" 
-       height="200px" 
-       align="left" 
-       alt="Github Contributions" src="https://github-readme-stats.vercel.app/api?username=danilo8br&show_icons=true&theme=algolia&&show_icons=true&hide_border=true&border_radius=10px"/>     
-</p>
 
-<p>
-  <img 
-       width="49%" 
-       min-width="420px" 
-       height="200px" 
-       align="center" 
-       alt="Github Contributions" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo8br&layout=compact&theme=algolia&&show_icons=true&hide_border=true&&border_radius=10px"/>     
-</p>
+Hey whats up? My name is Danilo, but you can call me Dan.
+<br>
+I work with Data Engineering +3 years. I have a great zeal for delivering the best data engineering solutions and anything else the team needs. It doesn't matter if it's Front-end, Data Analysis, DevOps, as I'm pretty self-taught, I deliver what is needed.
 
-# **🔮 Data Software Engineer**
 
-**I'm a young developer who wants to change the world through technology!**
-- 🎓 **Formation: Graduated in Systems Analysis and Development.**
-- 🎯 **Skills: Python, MySQL, MongoDB, Git, Selenium, Spark, AWS, Azure, Apache NiFi, Flask and Power BI.**
-- ⚛️ **Learning: Apache Airflow, Kubernetes, Docker**
+Here in this repository you will find insane and surprising codes, not only from Data Engineering, but other areas as well! And repositories that add value to the IT community.
 
+
+🎓 Formation: Graduated in Systems Analysis and Development<br>
+🎯 Skills: Python, SQL, Spark, AWS, Azure, Pentaho, Airflow<br>
+⚛️ Learning: Snowflake
