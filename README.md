@@ -1,4 +1,4 @@
-<img src='assets/LinkedIn cover - 4.png'>
+<img src='assets/LinkedIn cover - 5.png'>
 
 # 👾 Data Engineer & Developer
 
