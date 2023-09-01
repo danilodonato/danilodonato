@@ -1,6 +1,6 @@
 <img src='assets/LinkedIn cover - 4.png'>
 
-# 🍁 Data Engineer & Developer
+# 👾 Data Engineer & Developer
 
 
 Hey whats up? My name is Danilo, but you can call me Dan.
