@@ -12,5 +12,5 @@ Here in this repository you will find insane and surprising codes, not only from
 
 
 🎓 Formation: Graduated in Systems Analysis and Development<br>
-🎯 Skills: Python, SQL, Spark, AWS, Azure, Pentaho, Airflow<br>
+🎯 Skills: Python, SQL, Databricks Spark, AWS, Azure, Pentaho, Airflow<br>
 ⚛️ Learning: Snowflake
