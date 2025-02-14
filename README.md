@@ -1,4 +1,4 @@
-<img src='assets/github_cover.jpg'></img>
+<img src='assets/github_cover.png'></img>
 
 # 👾 Data Engineer & Developer
 
