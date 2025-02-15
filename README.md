@@ -31,6 +31,6 @@ class Danilo:
 Certifications 🥇
 ------
 
-<a href="https://www.credly.com/badges/3eafd0e8-09db-4e6e-b1f8-69cd1432a6c0/public_url">
+<a href="https://www.credly.com/badges/3eafd0e8-09db-4e6e-b1f8-69cd1432a6c0/public_url" target="_blank">
 <img border="0" alt="Click to check the certification" src="https://raw.githubusercontent.com/darambaris/darambaris/master/astronomer-certification-for-apache-airflow-fundamentals.png">
 </a>
