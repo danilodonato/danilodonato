@@ -1,4 +1,4 @@
-<img src='assets/github_cover.svg'></img>
+<img src='assets/LinkedIn cover - 12.png'></img>
 
 # Danilo Donato 👋 
 ### Data & AI Engineer 
