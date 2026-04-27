@@ -5,7 +5,7 @@
 
 My name is Danilo, but you can call me Dan.
 <br>
-Graduated in Systems Analysis and Development and a resident of the São Paulo - Brazil. I have been working as a Data Engineer for four years. I am an enthusiast of new technologies and market trends in the tech industry.
+Graduated in Systems Analysis and Development and a resident of the São Paulo - Brazil. I have been working as a Data Engineer for five years. I am an enthusiast of new technologies and market trends in the tech industry.
 
 My career in technology began when I was younger, as I loved spending time on the computer researching and learning things, as well as spending hours playing games. Today focus is to become a specialist in data engineering and start getting more involved with artificial intelligence so that I can become one of the best engineers in the world.
 
