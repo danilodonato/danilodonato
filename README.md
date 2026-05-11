@@ -8,19 +8,14 @@ I hold a degree in **Analysis and Systems Development** and I’m based in **Sã
 
 ---
 
+### 📺 Latest Videos on YouTube
+
+- [Principais Servicos de Dados na AWS](https://www.youtube.com/watch?v=HmxB-0NAQpM)
+---
+
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USER_AQUI)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@danilodonatodev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caelium_dev/)
 
----
-
-### 📺 Latest Videos on YouTube
-
-- [Principais Servicos de Dados na AWS](https://www.youtube.com/watch?v=HmxB-0NAQpM)
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER_GITHUB&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
