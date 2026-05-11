@@ -1,36 +1,22 @@
-<img src='assets/dan_eng.svg'></img>
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello!
 
-# Danilo Donato 👋 
-### Data & AI Engineer 
+I'm Danilo — also known as "Caelium". I’ve been working in Data Engineering for the past 5 years, building robust solutions for the automotive industry, fintechs, banks, and strategic consultancies.
 
-My name is Danilo, but you can call me Dan.
-<br>
-Graduated in Systems Analysis and Development and a resident of the São Paulo - Brazil. I have been working as a Data Engineer for five years. I am an enthusiast of new technologies and market trends in the tech industry.
+Currently, my focus is on designing scalable and secure data architectures, ensuring high performance and data integrity at scale. Parallel to that, I’m specializing in Artificial Intelligence to integrate intelligent agents and innovative AI solutions into the data ecosystem.
 
-My career in technology began when I was younger, as I loved spending time on the computer researching and learning things, as well as spending hours playing games. Today focus is to become a specialist in data engineering and start getting more involved with artificial intelligence so that I can become one of the best engineers in the world.
+I hold a degree in Analysis and Systems Development and I’m based in São Paulo, Brazil. 🇧🇷
 
-Here in this profile you will find insane and surprising codes, not only from Data Engineering, but other areas as well!
+### You can find me on
 
-```
-class Danilo:
-    def __init__(self):
-        self.age = 23
-        self.xp = '4+'
-        self.nick = 'Dan'
-        self.role = 'Data Engineer'
-        self.seniority = 'Senior'
+📺 &nbsp; [Youtube](https://www.youtube.com/@danilodonatodev) <br>
+📷 &nbsp; [Unsplash](https://www.instagram.com/caelium_dev/) <br>
 
-    def main_hard_skills(self):
-        return ['Python', 'SQL', 'Azure', 'AWS', 'Git', 'Airflow', 'Spark', 'Databricks']
+### 📺 &nbsp;Latest Videos on YouTube
 
-    def soft_skills(self):
-        return ['Communication', 'Organization', 'Teamwork', 'Self-taught']
-
-```
-
-Certifications
-------
-
-<a href="https://www.credly.com/badges/3eafd0e8-09db-4e6e-b1f8-69cd1432a6c0/public_url" target="_blank">
-<img border="0" alt="Click to check the certification" src="assets/astronomer-certification-for-apache-airflow-fundamentals.png">
-</a>
+<!-- YOUTUBE:START -->
+- [Como utilizar um controle na Web com Gamepad API](https://www.youtube.com/watch?v=HmxB-0NAQpM)
+- [Saiu o curso de Games in JS + Cupom lançamento! #javascript #gamedev #reactjs #canvas #html](https://www.youtube.com/shorts/5wGvOKN_Vr4)
+- [Saiu o curso de Games in JS + Cupom lançamento!](https://www.youtube.com/watch?v=PGpyMM4LjEA)
+- [Estou de volta e novo curso em breve!](https://www.youtube.com/watch?v=xrcicnrsCno)
+- [Andando em Osaka a noite - 4K ASMR](https://www.youtube.com/watch?v=wkp4hs_i2t4)
+<!-- YOUTUBE:END -->
